@@ -148,6 +148,7 @@ BOARD_SEPOLICY_UNION := \
        bootanim.te \
        dnsmasq.te \
        recovery.te \
-       device.te
+       device.te \
+       zygote.te
 
 
